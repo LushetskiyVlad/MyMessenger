@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0f73f2fc-6da8-40dd-8e68-8be883df9df3" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/MessengerServiceHost.Services/MessengerService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MessengerService.wsdl" MetadataType="Wsdl" ID="3c5ad503-d74d-49ec-8a65-71fc49514e37" SourceId="1" SourceUrl="http://localhost:8733/MessengerServiceHost.Services/MessengerService/?wsdl" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="ede78fa5-efb5-421f-9a18-2c1041c8e946" SourceId="1" SourceUrl="http://localhost:8733/MessengerServiceHost.Services/MessengerService/?xsd=xsd1" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="faa0b348-4db9-4df3-a6aa-1552f58c7c24" SourceId="1" SourceUrl="http://localhost:8733/MessengerServiceHost.Services/MessengerService/?xsd=xsd0" />
+    <MetadataFile FileName="item3.xsd" MetadataType="Schema" ID="8fb44d25-908f-4102-beee-69df1054514f" SourceId="1" SourceUrl="http://localhost:8733/MessengerServiceHost.Services/MessengerService/?xsd=xsd3" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="e46b8f6d-b5d2-44e7-9e98-264b66e5c37b" SourceId="1" SourceUrl="http://localhost:8733/MessengerServiceHost.Services/MessengerService/?xsd=xsd2" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="3dda72f7-2d3f-4d94-ad96-7dbc275c2857" SourceId="1" SourceUrl="http://localhost:8733/MessengerServiceHost.Services/MessengerService/?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

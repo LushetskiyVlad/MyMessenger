@@ -1,0 +1,78 @@
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.CopyComplete
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.Migrations.InitialDb.resources
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.GenerateResource.cache
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe.config
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.pdb
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.dll
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.xml
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.resources.dll
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.CoreCompileInputs.cache
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.CopyComplete
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.exe
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.pdb
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.Migrations.InitialDb.resources
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.GenerateResource.cache
+F:\ШАГ\Курсач\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe.config
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.exe
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.pdb
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.pdb
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.Migrations.InitialDb.resources
+C:\Users\09375\Downloads\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.GenerateResource.Cache
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe.config
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.pdb
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.dll
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.xml
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.resources.dll
+D:\Загрузки\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Загрузки\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csprojResolveAssemblyReference.cache
+D:\Загрузки\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.Migrations.InitialDb.resources
+D:\Загрузки\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.GenerateResource.cache
+D:\Загрузки\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.CoreCompileInputs.cache
+D:\Загрузки\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.CopyComplete
+D:\Загрузки\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.exe
+D:\Загрузки\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\MessengerServiceHost.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.Migrations.InitialDb.resources
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.GenerateResource.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.csproj.CopyComplete
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerServiceHost\obj\Debug\MessengerServiceHost.pdb

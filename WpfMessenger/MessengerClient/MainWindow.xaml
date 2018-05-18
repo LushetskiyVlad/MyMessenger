@@ -1,0 +1,205 @@
+﻿<Controls:MetroWindow x:Class="MessengerClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:Converter="clr-namespace:MessengerClient.Converters"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800" MinHeight="450" MinWidth="600">
+
+    <Window.Resources>
+        <Converter:TextToBoleanConverter x:Key="textToBoleanConverter" />
+        <Converter:LastItemConverter x:Key="lastItemConverter" />
+        <Converter:ControlVisibilityConverter x:Key="controlVisibilityConverter"/>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Menu Background="LightGray">
+            <MenuItem Header="Написать" Background="Transparent"/>
+        </Menu>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Border BorderThickness="1" BorderBrush="LightGray">
+                <Grid Background="WhiteSmoke">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Button Height="50" Margin="10"/>
+
+                    <Border Grid.Row="1" CornerRadius="10" Background="White" BorderBrush="LightGray" BorderThickness="1" Margin="10,5">
+                        <DockPanel>
+                            <Rectangle Height="15" Width="15" Fill="DodgerBlue" Margin="10,0,0,0">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Uniform" Visual="{DynamicResource appbar_magnify}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+
+                            <TextBox Grid.Row="1" Name="tbSearch" Margin="0,2,5,2"
+                         Controls:TextBoxHelper.Watermark="Поиск..."
+                         Controls:TextBoxHelper.ClearTextButton="{Binding ElementName=tbSearch, Path=Text, Converter={StaticResource textToBoleanConverter}}"
+                         Text="{Binding SearchText, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                     BorderThickness="0">
+
+                            </TextBox>
+                        </DockPanel>
+                    </Border>
+
+                    <Separator Grid.Row="2" Background="LightGray" />
+
+                    <TabControl SelectedIndex="{Binding SelectedTabIndex, Mode=TwoWay}" Grid.Row="3" 
+                                Controls:TabControlHelper.Underlined="SelectedTabItem" Background="Transparent">
+                        <TabItem Header="Беседы" Visibility="{Binding ElementName=tbSearch, 
+                            Path=Text, Converter={StaticResource controlVisibilityConverter}}"
+                                 Background="Transparent">
+
+                            <ListBox BorderThickness="0" Background="WhiteSmoke" ItemsSource="{Binding Groups}" SelectedItem="{Binding SelectedGroup}">
+                                <ListBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid ContextMenuService.ShowOnDisabled="True">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition/>
+                                                <RowDefinition/>
+                                            </Grid.RowDefinitions>
+
+                                            <Label Content="{Binding Date}" HorizontalAlignment="Right"/>
+
+                                            <DockPanel Grid.Row="1">
+                                                <Image DockPanel.Dock="Left" Source="{Binding Image}" Width="30"/>
+                                                <StackPanel ContextMenuService.ShowOnDisabled="True" ContextMenuService.IsEnabled="True">
+                                                    <StackPanel.ContextMenu>
+                                                        <ContextMenu>
+                                                            <MenuItem Header="Написать"/>
+                                                        </ContextMenu>
+                                                    </StackPanel.ContextMenu>
+
+                                                    <TextBlock Text="{Binding Name}">
+                                                        <!--<TextBlock.Text>
+                                                            <MultiBinding Converter="{Binding}">
+                                                                <Binding Path="FirstName" />
+                                                                <Binding Path="LastName" />
+                                                            </MultiBinding>
+                                                        </TextBlock.Text>-->
+                                                    </TextBlock>
+                                                    <TextBlock Foreground="Gray" Text="{Binding Path=Messages, Converter={StaticResource lastItemConverter}}"/>
+                                                </StackPanel>
+                                            </DockPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListBox.ItemTemplate>
+                            </ListBox>
+                        </TabItem>
+                        <TabItem Header="Люди" Visibility="{Binding ElementName=tbSearch, 
+                            Path=Text, Converter={StaticResource controlVisibilityConverter}}" Background="Transparent">
+                            <ListView  BorderThickness="0" Background="WhiteSmoke" ItemsSource="{Binding FoundUsers}">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <DockPanel Grid.Row="1">
+                                            <Image DockPanel.Dock="Left" Source="{Binding Image}" Width="30"/>
+                                            <StackPanel ContextMenuService.ShowOnDisabled="True" ContextMenuService.IsEnabled="True">
+                                                <StackPanel.ContextMenu>
+                                                    <ContextMenu>
+                                                        <MenuItem Header="Написать" Command="{Binding WriteMessageCommand}"/>
+                                                    </ContextMenu>
+                                                </StackPanel.ContextMenu>
+                                                <TextBlock>
+                                                    <TextBlock.Text>
+                                                        <MultiBinding StringFormat="{}{0} {1}">
+                                                            <Binding Path="FirstName" />
+                                                            <Binding Path="LastName" />
+                                                        </MultiBinding>
+                                                    </TextBlock.Text>
+                                                </TextBlock>
+                                                <TextBlock Foreground="Gray" Text="{Binding Phone}"/>
+                                            </StackPanel>
+                                        </DockPanel>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </TabItem>
+                    </TabControl>
+
+                </Grid>
+            </Border>
+
+            <Grid Grid.Column="1" >
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <ListView Name="lbMessages" Background="Lavender"  BorderBrush="LightGray" 
+                          ItemsSource="{Binding Messages, UpdateSourceTrigger=PropertyChanged}"><!--DataContext="{Binding SelectedGroup}"-->
+
+                    <ListView.Resources>
+                        <Style TargetType="{x:Type ListViewItem}">
+                            <Setter Property="Background" Value="Transparent" />
+                            <Style.Resources>
+                                <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" Color="Transparent"/>
+                            </Style.Resources>
+                        </Style>
+                    </ListView.Resources>
+                    
+                    <ListView.ItemsPanel >
+                        <ItemsPanelTemplate>
+                            <VirtualizingStackPanel VerticalAlignment="Bottom"/>
+                        </ItemsPanelTemplate>
+                    </ListView.ItemsPanel>
+
+                    <ListView.ItemTemplate >
+                        <DataTemplate>
+                            <Border CornerRadius="15" Background="SkyBlue" Margin="10">
+                                <Border.Effect>
+                                    <DropShadowEffect ShadowDepth="1" Direction="300"/>
+                                </Border.Effect>
+                                <StackPanel>
+                                    <!--<TextBlock DataContext="{Binding User}">
+                                        <TextBlock.Text>
+                                            <MultiBinding StringFormat="{}{0} {1}">
+                                                <Binding Path="FirstName" />
+                                                <Binding Path="LastName" />
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>-->
+                                    <TextBlock Text="{Binding Path=Content.Text}" TextWrapping="Wrap" MaxWidth="200" Margin="10"/>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <Border Background="LightGray" Grid.Row="1" CornerRadius="10" Padding="5" Margin="50,10" MaxWidth="500">
+                    <DockPanel >
+                        <Button Name="butEmoji" Width="30" Background="Transparent" BorderThickness="0" DockPanel.Dock="Left"/>
+                        <Button Name="butSend" Width="30" Background="Transparent" BorderThickness="0" Controls:ButtonHelper.CornerRadius="8" DockPanel.Dock="Right" ToolTip="Отправить"
+                                IsEnabled="{Binding ElementName=tbMessage, Path=Text, Converter={StaticResource textToBoleanConverter}}"
+                                Command="{Binding SendMessageCommand}" CommandParameter="{Binding ElementName=tbMessage, Path=Text}">
+                            <Image Source="Resources\send_message_icon.png"/>
+                        </Button>
+                        <TextBox Name="tbMessage"
+                                 BorderThickness="0"
+                                 Background="Transparent" 
+                                 VerticalAlignment="Center" 
+                                 Controls:TextBoxHelper.Watermark="Введите сообщение"/>
+                    </DockPanel>
+                </Border>
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,162 @@
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe.config
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.exe
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.pdb
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.pdb
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.dll
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.dll
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\System.Windows.Interactivity.dll
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.pdb
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.pdb
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.xml
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csprojResolveAssemblyReference.cache
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.baml
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MainWindow.baml
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\Resources\Icons.baml
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\Resources\IconsNonShared.baml
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.g.cs
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MainWindow.g.cs
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\App.g.cs
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\App.baml
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.g.resources
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+H:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.Cache
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe.config
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.pdb
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.dll
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.dll
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\System.Windows.Interactivity.dll
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.pdb
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.pdb
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.xml
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csprojResolveAssemblyReference.cache
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.baml
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MainWindow.baml
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\Resources\Icons.baml
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\Resources\IconsNonShared.baml
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.g.cs
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MainWindow.g.cs
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\App.g.cs
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\App.baml
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.g.resources
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.CopyComplete
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.exe
+F:\ШАГ\Курсач\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.xml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\Resources\Icons.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\App.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\App.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.g.resources
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.CopyComplete
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.pdb
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csprojResolveAssemblyReference.cache
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\Resources\Icons.baml
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.g.cs
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MainWindow.g.cs
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\App.g.cs
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe.config
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.pdb
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.dll
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.dll
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.pdb
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.pdb
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.xml
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\App.baml
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.baml
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MainWindow.baml
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.g.resources
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.Cache
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.exe
+C:\Users\09375\Downloads\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.pdb
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe.config
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.pdb
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.dll
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.dll
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\System.Windows.Interactivity.dll
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.pdb
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.pdb
+D:\Загрузки\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.xml
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\Resources\Icons.baml
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\Resources\IconsNonShared.baml
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.g.cs
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MainWindow.g.cs
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\App.g.cs
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\App.baml
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.baml
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MainWindow.baml
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.g.resources
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.CopyComplete
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.exe
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.pdb
+D:\Загрузки\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\MessengerClient.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\ControlzEx.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\bin\Debug\MahApps.Metro.xml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\Resources\Icons.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\App.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient_MarkupCompile.lref
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\App.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\LoginWindow.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.g.resources
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.GenerateResource.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.csproj.CopyComplete
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\GitProjects\WpfMessenger\MessengerClient\obj\Debug\MessengerClient.pdb

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/MessengerServiceHost.Model.View" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/MessengerServiceHost.Model.View" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfViewGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ViewGroup" nillable="true" type="tns:ViewGroup" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfViewGroup" nillable="true" type="tns:ArrayOfViewGroup" />
+  <xs:complexType name="ViewGroup">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="GroupId" type="xs:int" />
+      <xs:element minOccurs="0" name="Image" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="Messages" nillable="true" type="tns:ArrayOfViewMessage" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Participants" type="xs:int" />
+      <xs:element minOccurs="0" name="Users" nillable="true" type="tns:ArrayOfViewUser" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ViewGroup" nillable="true" type="tns:ViewGroup" />
+  <xs:complexType name="ArrayOfViewMessage">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ViewMessage" nillable="true" type="tns:ViewMessage" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfViewMessage" nillable="true" type="tns:ArrayOfViewMessage" />
+  <xs:complexType name="ViewMessage">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Content" nillable="true" type="tns:ViewMessageContent" />
+      <xs:element minOccurs="0" name="DispatchTime" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="FromId" type="xs:int" />
+      <xs:element minOccurs="0" name="Group" nillable="true" type="tns:ViewGroup" />
+      <xs:element minOccurs="0" name="GroupId" type="xs:int" />
+      <xs:element minOccurs="0" name="MessageId" type="xs:int" />
+      <xs:element minOccurs="0" name="User" nillable="true" type="tns:ViewUser" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ViewMessage" nillable="true" type="tns:ViewMessage" />
+  <xs:complexType name="ViewMessageContent">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Message" nillable="true" type="tns:ViewMessage" />
+      <xs:element minOccurs="0" name="MessageContentId" type="xs:int" />
+      <xs:element minOccurs="0" name="Text" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ViewMessageContent" nillable="true" type="tns:ViewMessageContent" />
+  <xs:complexType name="ViewUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Groups" nillable="true" type="tns:ArrayOfViewGroup" />
+      <xs:element minOccurs="0" name="Image" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Login" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="Phone" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserId" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ViewUser" nillable="true" type="tns:ViewUser" />
+  <xs:complexType name="ArrayOfViewUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ViewUser" nillable="true" type="tns:ViewUser" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfViewUser" nillable="true" type="tns:ArrayOfViewUser" />
+</xs:schema>
